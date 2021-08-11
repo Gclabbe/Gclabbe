@@ -4,8 +4,21 @@
 ## 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
 ### ... I have worked in all of these techs
 * CV
+      * Hand identification in micro-environment equipment ... released 2017 ... trade secret
+      * Employee behavior monitoring ... released 2017 ... trade secret
 * Predictive Maintenance
+      * Oil pump card aberant behavior alerts ... really should be patented
+      * O&G Field Equipment downtime ... blocked by corporate lack of records to identify un-intended downtimes
 * Robotics
+      * minor degree is robotics
+      * first 8 years of my career was micro-robotics ... with sub-spec in digital controls theorty
+            - and seriuosly, we were the first part of the digitization of the controls of drives
+            - seriously, that was not a great time to be a newcomer ... I learned a lot about tech transformation
+* Business Analytics
+      * Revision of devision email decision systems ... released 2016
+          * 90 day report system on forecast problems reduced to 3 days
+          * Vendor contracts re-negotiated ... details not known
+          * Time 
 
 ## 🌱 I’m currently learning
 * Fourth Brain AI program on Machine Learning Engineering
