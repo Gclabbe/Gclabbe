@@ -13,7 +13,7 @@
     *  Neural Networks
     *  Individual project -- Covid forecasting
     *  Capstone (TBD)
-* Colorado University MS in Data Science
+* University of Colorado MS in Data Science
     * Courses completed
         * Ethics in DS
         * Basics in HPC
