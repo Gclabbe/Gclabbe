@@ -1,10 +1,14 @@
 # @Gclabbe
-... site under construction.  I have sooo many projects that are parked under Bitbucket and not visible here :(
 
 ## 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
 ### ... I have worked in all of these techs
 
 * CV
+    * Human assisted rapid annotation
+      * Pixellib
+      * MaskRCNN on Tensorflow
+      * DeepMask / SharpMask on PyTorch
+      * Dash web app
     * Identify hands entering equipment during operation
     * Flare operational status
     * Robocar - hobby project to get autonomous car around a track
@@ -68,8 +72,7 @@
 * Telecommunications -- BSEE
 * Controls Theory -- sub-degree during BSEE
 
-## 💞️ Seeking a long-term career in ML ... the focus is less important than the mission 
-* meaning, CV vs NLP vs others ... not as important as making the world better through ML/AI
+## 💞️ Seeking a long-term career as MLE ... 
 
 ## 📫 How to reach me ... spaces injected to avoid trolls :(
 * chris - github @ sunshinelobby.com
