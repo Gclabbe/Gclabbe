@@ -1,8 +1,31 @@
 # @Gclabbe
 
-## 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
-### ... I have worked in all of these techs
-
+# 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
+## ... I have worked in all of these techs
+### Current focuses @ Vivun
+#### Advanced NLG on Foundation models
+   * Lead for Prompt Engineering and prompt management
+   * Technical prompts leveraging model outputs to generate human expressive explanations
+   * Integration of guardrails-ai
+   * Prompt analysis through Weights & Biases (wandb.ai)
+   * RLHF system established through Arize (arize.ai)
+#### NLP for Calendar Event management
+   * BERT modeling
+   * Domain rules
+   * Cosine Similarity
+   * TF/IDF
+   * XGBoost
+#### Time series assessment of historical activities
+   * Segmented Random Forest
+   * Structured and novel methods for assessing model fitness
+   * Bayesian data framework (older version)
+#### MLOps development and restructure
+* Productized solution for Fargate ECS w/ Step Functions
+* Structured process for mass training on Sagemaker Training
+* Advanced visualizations using Plotly Dash
+* Graduated to visualization and reporting on Weights & Biases (wandb.io)
+* Adopted Arize for visualization of production model performance (wandb.io)
+### Previous jobs
 * CV
     * Human assisted rapid annotation
       * Pixellib
@@ -13,13 +36,17 @@
     * Flare operational status
     * Robocar - hobby project to get autonomous car around a track
 * Predictive Maintenance
-    * Oil pump behaviour monitoring and tagging
+    * Oil pump behavior monitoring and tagging
     * Oil and Gas equipment downtime and PHM
 * Robotics
     * minor degree in Controls Theory
     * first 8 years of career was micro-robotics ... digital controls theory
-* ML
-    * Led team to develop AI Failure Analysis of Hard Disk Drives
+* ML @ Seagate
+    * Sr. Director of Corporate Division for ML & DS
+        * Managed through CRISP-DM
+        * Co-developed internal DS University
+        * Lead ML over 14 data scientist
+    * Sr. Director of Asia-wide team developing AI Failure Analysis of Hard Disk Drives
         * Random Forest solution
         * Enabled finding true primary issues vs "most recently returned"
         * Led to significant reduction in quality control assessment
