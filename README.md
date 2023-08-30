@@ -55,20 +55,19 @@
 
 ## 🌱 I’m currently learning
 
-* Fourth Brain AI program on Machine Learning Engineering
-    *  Regressions
-    *  Neural Networks
-    *  Individual project -- Covid forecasting
-    *  Capstone (TBD)
+* University of Texas Austin - MSAI - ECD May 2025
+    * Reinforcement Learning -- in progress
+    * Natural Language Processing -- in progress
+* Fourth Brain AI building with LLM - completed May 2021
+* Fourth Brain AI program on MLE - completed Oct 2021
+    * Regressions
+    * Neural Networks
+    * Capstone: automated annotation and training with unknown objects in images
 * University of Colorado MS in Data Science
     * Courses completed
         * Ethics in DS
         * Basics in HPC
         * Algorithms
-    * Up next
-        * HPC
-        * Stats
-        * ML
 
 ## Background
 
