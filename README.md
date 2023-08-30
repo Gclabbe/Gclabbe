@@ -1,4 +1,7 @@
 # @Gclabbe
+## 📫 How to reach me ... spaces injected to avoid trolls :(
+* chris - github @ sunshinelobby.com
+* 720  864  1012 
 
 # 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
 ## ... I have worked in all of these techs
@@ -91,17 +94,11 @@
 ## 🌱 I have learned
 * Tensorflow2 -- Deeplearning.ai
 * John's Hopkin's -- Data Science in R
-* Standford DS -- Machine Learning in Octave (Matlab)
+* Stanford DS -- Machine Learning in Octave (Matlab)
 * Business Management -- Harvard Business School
 * Six Sigma Black Belt
 * Problem Solving & Decision Making -- Kepneger-Tregoe
 * Telecommunications -- BSEE
 * Controls Theory -- sub-degree during BSEE
-
-## 💞️ Seeking a long-term career as MLE ... 
-
-## 📫 How to reach me ... spaces injected to avoid trolls :(
-* chris - github @ sunshinelobby.com
-* 720  864  1012 
 
 
