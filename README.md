@@ -58,7 +58,7 @@
 * University of Texas Austin - MSAI - ECD May 2025
     * Reinforcement Learning -- in progress
     * Natural Language Processing -- in progress
-* Fourth Brain AI building with LLM - completed May 2021
+* Fourth Brain AI building with LLM - completed May 2023
 * Fourth Brain AI program on MLE - completed Oct 2021
     * Regressions
     * Neural Networks
