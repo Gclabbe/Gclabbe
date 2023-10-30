@@ -27,10 +27,11 @@
 * Structured process for mass training on Sagemaker Training
 * Advanced visualizations using Plotly Dash
 * Graduated to visualization and reporting on Weights & Biases (wandb.io)
-* Adopted Arize for visualization of production model performance (wandb.io)
+* Adopted Arize for visualization of production model performance (arize.ai)
+* Developing full MLOps solution on Sagemaker & Bedrock utilizing MetaFlow
 ### Previous jobs
 * CV
-    * Human assisted rapid annotation
+    * Human-assisted rapid annotation
       * Pixellib
       * MaskRCNN on Tensorflow
       * DeepMask / SharpMask on PyTorch
@@ -43,18 +44,18 @@
     * Oil and Gas equipment downtime and PHM
 * Robotics
     * minor degree in Controls Theory
-    * first 8 years of career was micro-robotics ... digital controls theory
+    * first eight years of career was micro-robotics ... digital controls theory
 * ML @ Seagate
     * Sr. Director of Corporate Division for ML & DS
         * Managed through CRISP-DM
         * Co-developed internal DS University
         * Lead ML over 14 data scientist
     * Sr. Director of Asia-wide team developing AI Failure Analysis of Hard Disk Drives
-        * Random Forest solution
-        * Enabled finding true primary issues vs "most recently returned"
-        * Led to significant reduction in quality control assessment
+        * Massive Random Forest project to analyze 3M+ returned drives per quarter
+        * Enabled finding true primary issues vs. "most recently returned."
+        * Led to a significant reduction in quality control assessment
         * Ultimately reduced FA staff from 600 to 350
-    * 90 day report on forecast problems reduced to 3 days
+    * 90-day report on forecast problems reduced to 3 days
 
 ## 🌱 I’m currently learning
 
@@ -75,19 +76,19 @@
 ## Background
 
 * Years overseas running multi-country division
-    * World-Wide ownership for Global Failure Analysis Strategic Planning
+    * Worldwide ownership for Global Failure Analysis Strategic Planning
     * 7 campuses in Thailand, China, Malaysia, Korea, Singapore
-    * 2-years living in China, 2-years living in Thailand
+    * Two years living in China, two years living in Thailand
     * WW Customer Service ... constant contact with key customers
     * WW Failure Analysis ... leadership for all 12 campuses
     * Massive project using Random Forest
-    * Increased visibility to key problems by 100%+++
-        * Reduced staffing from 600 - 350 over 3 years
+    * Increased visibility to critical problems by 100%+++
+        * Reduced staffing from 600 - 350 over three years
         
-* Before that was many leadership roles.  Key skills
+* Before that, many leadership roles.  Key skills
     * Project management
-    * Firmware / software delivery (SCRUM / Agile)
-    * Firmware task awareness / development
+    * Firmware/software delivery (SCRUM / Agile)
+    * Firmware task awareness/development
     * Multi-team collaboration
     * Strategic alignment between divisions
 
