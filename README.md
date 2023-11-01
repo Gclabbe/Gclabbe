@@ -1,7 +1,7 @@
 # @Gclabbe
-## 📫 How to reach me ... spaces injected to avoid trolls :(
-* chris - github @ sunshinelobby.com
-* 720  864  1012 
+## 📫 How to reach me
+* chris-github@sunshinelobby.com
+* 720 864 1012 
 
 # 👀 I’m interested in Machine Learning / AI / Robotics / Computer Vision
 ## ... I have worked in all of these techs
