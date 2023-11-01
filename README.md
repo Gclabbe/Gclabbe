@@ -30,7 +30,7 @@
 * Adopted Arize for visualization of production model performance (arize.ai)
 * Developing full MLOps solution on Sagemaker & Bedrock utilizing MetaFlow
 ### Previous jobs
-* CV
+* CV -- [Scuba Steve](https://github.com/Gclabbe/scuba_steve)
     * Human-assisted rapid annotation
       * Pixellib
       * MaskRCNN on Tensorflow
@@ -67,7 +67,7 @@
     * Regressions
     * Neural Networks
     * Capstone: automated annotation and training with unknown objects in images
-* University of Colorado MS in Data Science
+* University of Colorado MS in Data Science - stopped to transfer to UT Austin program
     * Courses completed
         * Ethics in DS
         * Basics in HPC
@@ -93,6 +93,7 @@
     * Strategic alignment between divisions
 
 ## 🌱 I have learned
+* Torch -- UT Austin NLP
 * Tensorflow2 -- Deeplearning.ai
 * John's Hopkin's -- Data Science in R
 * Stanford DS -- Machine Learning in Octave (Matlab)
